@@ -1,0 +1,9 @@
+uuid: ff55481c-c172-4fdd-a81e-eb29c430f1bf
+langcode: en
+status: true
+dependencies: {  }
+name: 'US States'
+vid: us_states
+description: ''
+hierarchy: 0
+weight: 0
